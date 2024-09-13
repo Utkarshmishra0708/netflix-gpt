@@ -25,4 +25,4 @@ export const SUPPORTED_LANGUAGES = [
 ];
 
 export const OPENAI_KEY =
-  "sk-7Rm1KjqTKezdaOA39Nw1uh-_dGqQqniduaWKGQGX3wT3BlbkFJQkE5D2R__4KD8w3okvwTPgWmDTjyQ-Vb78ay8muLAA";
+  "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";
